@@ -11,7 +11,6 @@
         server          = http.createServer(app);
 
 /* Express server set up. */
-
 //The express server handles passing our content to the browser,
 //As well as routing users where they need to go. This example is bare bones
 //and will serve any file the user requests from the root of your web server (where you launch the script from)

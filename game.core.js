@@ -1,11 +1,3 @@
-/*  Copyright (c) 2012 Sven "FuzzYspo0N" Bergström
-    
-    written by : http://underscorediscovery.com
-    written for : http://buildnewgames.com/real-time-multiplayer/
-    
-    MIT Licensed.
-*/
-
 //The main update loop runs on requestAnimationFrame,
 //Which falls back to a setTimeout loop on the server
 //Code below is from Three.js, and sourced from links below
